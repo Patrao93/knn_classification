@@ -1,5 +1,7 @@
 # knn_classification
+
 Duarte Silva
+
 Trabalho de Programação -> Código Python para aplicação de um modelo KNN.
 
 Breve explicação sobre partes do código utilizado:
